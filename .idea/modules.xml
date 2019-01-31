@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jgltf-browser/jgltf-browser.iml" filepath="$PROJECT_DIR$/jgltf-browser/jgltf-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-impl-v1/jgltf-impl-v1.iml" filepath="$PROJECT_DIR$/jgltf-impl-v1/jgltf-impl-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-impl-v2/jgltf-impl-v2.iml" filepath="$PROJECT_DIR$/jgltf-impl-v2/jgltf-impl-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-impl-v2-technique-webgl/jgltf-impl-v2-technique-webgl.iml" filepath="$PROJECT_DIR$/jgltf-impl-v2-technique-webgl/jgltf-impl-v2-technique-webgl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-model/jgltf-model.iml" filepath="$PROJECT_DIR$/jgltf-model/jgltf-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-obj/jgltf-obj.iml" filepath="$PROJECT_DIR$/jgltf-obj/jgltf-obj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-parent.iml" filepath="$PROJECT_DIR$/jgltf-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-validator/jgltf-validator.iml" filepath="$PROJECT_DIR$/jgltf-validator/jgltf-validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-viewer/jgltf-viewer.iml" filepath="$PROJECT_DIR$/jgltf-viewer/jgltf-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-viewer-jogl/jgltf-viewer-jogl.iml" filepath="$PROJECT_DIR$/jgltf-viewer-jogl/jgltf-viewer-jogl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jgltf-viewer-lwjgl/jgltf-viewer-lwjgl.iml" filepath="$PROJECT_DIR$/jgltf-viewer-lwjgl/jgltf-viewer-lwjgl.iml" />
+    </modules>
+  </component>
+</project>

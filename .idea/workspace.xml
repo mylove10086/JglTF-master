@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1f419d9-1d32-43ab-89de-8af3d53a113b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/jgltf-obj/target/" />
+    <ignored path="$PROJECT_DIR$/jgltf-viewer/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/jgltf-viewer-jogl/target/" />
+    <ignored path="$PROJECT_DIR$/jgltf-validator/target/" />
+    <ignored path="$PROJECT_DIR$/jgltf-model/target/" />
+    <ignored path="$PROJECT_DIR$/jgltf-impl-v2/target/" />
+    <ignored path="$PROJECT_DIR$/jgltf-viewer-lwjgl/target/" />
+    <ignored path="$PROJECT_DIR$/jgltf-impl-v2-technique-webgl/target/" />
+    <ignored path="$PROJECT_DIR$/jgltf-impl-v1/target/" />
+    <ignored path="$PROJECT_DIR$/jgltf-browser/target/" />
+    <ignored path="$PROJECT_DIR$/Testdemo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jgltf_parent$ObjToGltf.ic" NAME="ObjToGltf Coverage Results" MODIFIED="1548662344275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.javagl.jgltf.obj.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tar</find>
+      <find>createMaterial</find>
+      <find>bufferStructure</find>
+      <find>materials</find>
+      <find>material</find>
+      <find>activeMaterialGroupName</find>
+      <find>BufferViewData</find>
+      <find>return indicesByteBuffer;</find>
+      <find>byteOffset</find>
+      <find>UNSIGNED_SHORT</find>
+      <find>SHORT</find>
+      <find>createByteBufferFrom</find>
+      <find>ByteBuffer</find>
+      <find>objFaceParser</find>
+      <find>createArrayBufferViewModel</find>
+      <find>_BATCHID</find>
+      <find>bufferStructureBuilder</find>
+      <find>currentAccessorModels</find>
+      <find>bufferViewAccessorModels</find>
+      <find>bufferView</find>
+      <find>bufferElements</find>
+      <find>paddingBytesForBufferView</find>
+      <find>accumulatedBufferViewBytes</find>
+      <find>createAccessorModel</find>
+      <find>attributes_bufferView</find>
+      <find>build</find>
+      <find>put</find>
+      <find>pdedLength</find>
+      <find>headerData</find>
+      <find>file</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>paddedLength</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/Idea demo/arcgis-runtime-samples-java-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="F:/barrel/Imput/barrel.mtl" />
+        <option value="F:/barrel/Output/Example.b3dm" />
+        <option value="$PROJECT_DIR$/demo/src/demetest.java" />
+        <option value="$PROJECT_DIR$/jgltf-impl-v2/src/main/java/de/javagl/jgltf/impl/v2/Accessor.java" />
+        <option value="$PROJECT_DIR$/Testdemo/src/Node.java" />
+        <option value="$PROJECT_DIR$/Testdemo/src/IObjs.java" />
+        <option value="$PROJECT_DIR$/Testdemo/src/ObjFaceParser.java" />
+        <option value="$PROJECT_DIR$/Testdemo/src/readObjs.java" />
+        <option value="$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v2/IObjGltfAssetCreatorV2.java" />
+        <option value="$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v2/IReadObjs.java" />
+        <option value="$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v2/IObjReads.java" />
+        <option value="$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/IreadObj/IObjFaceParser.java" />
+        <option value="$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/IreadObj/IObjReads.java" />
+        <option value="$PROJECT_DIR$/jgltf-impl-v2/src/main/java/de/javagl/jgltf/impl/v2/MeshPrimitive.java" />
+        <option value="$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/impl/DefaultAccessorModel.java" />
+        <option value="$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v2/MtlMaterialHandlerV2.java" />
+        <option value="F:/barrel/Imput/barrels.mtl" />
+        <option value="$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/impl/creation/BufferStructureGltfV2.java" />
+        <option value="$PROJECT_DIR$/jb3dm-obj/pom.xml" />
+        <option value="$PROJECT_DIR$/jb3dm-obj/src/main/java/de/javagl/jgltf/obj/ObjToB3dm.java" />
+        <option value="$PROJECT_DIR$/jb3dm-obj/src/main/java/de/javagl/jgltf/obj/BufferStrategy.java" />
+        <option value="$PROJECT_DIR$/jb3dm-obj/src/main/java/de/javagl/jgltf/obj/v2/MtlMaterialHandlerV2.java" />
+        <option value="$PROJECT_DIR$/jb3dm-obj/src/main/java/de/javagl/jgltf/obj/v1/ObjGltfAssetCreatorV1.java" />
+        <option value="$PROJECT_DIR$/jb3dm-obj/src/main/java/de/javagl/jgltf/obj/IntBuffers.java" />
+        <option value="$PROJECT_DIR$/jb3dm-obj/src/main/java/de/javagl/jgltf/obj/BufferStrategys.java" />
+        <option value="$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v1/ObjGltfAssetCreatorV1.java" />
+        <option value="$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/impl/creation/AccessorModels.java" />
+        <option value="$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/io/Buffers.java" />
+        <option value="$PROJECT_DIR$/Testdemo/src/demetest.java" />
+        <option value="$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/impl/creation/BufferStructureBuilder.java" />
+        <option value="$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v2/ObjGltfAssetCreatorV2.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/jgltf-obj/pom.xml" />
+        <option value="$PROJECT_DIR$/jgltf-impl-v1/pom.xml" />
+        <option value="$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/ObjToGltf.java" />
+        <option value="$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/io/v2/GltfAssetWriterV2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jgltf-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="jgltf-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.lwjgl.lwjgl:lwjgl:2.8.4" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="jgltf-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.lwjgl.lwjgl:lwjgl:2.8.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="lwjgl-2.8.4.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45135134" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.javagl.jgltf.obj" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JglTF-master\jb3dm-obj\src\main\java\de\javagl\jgltf\obj" />
+      <recent name="F:\JglTF-master\Testdemo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ObjToGltf">
+    <configuration name="ObjToGltf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.javagl.jgltf.obj.ObjToGltf" />
+      <module name="jgltf-obj" />
+      <option name="PROGRAM_PARAMETERS" value="-b -i=F:\barrel\Imput\barrel.obj -o=F:\barrel\Output\barrel.gltf" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.javagl.jgltf.obj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="demetest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demetest" />
+      <module name="Testdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="readObjs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="readObjs" />
+      <module name="Testdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TestObjAlignmentV2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jgltf-obj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.javagl.jgltf.obj.IreadObj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="de.javagl.jgltf.obj.v2" />
+      <option name="MAIN_CLASS_NAME" value="de.javagl.jgltf.obj.v2.TestObjAlignmentV2" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestObjAlignmentV2.testObjAlignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jgltf-obj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.javagl.jgltf.obj.IreadObj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="de.javagl.jgltf.obj.v2" />
+      <option name="MAIN_CLASS_NAME" value="de.javagl.jgltf.obj.v2.TestObjAlignmentV2" />
+      <option name="METHOD_NAME" value="testObjAlignment" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ObjToGltf" />
+      <item itemvalue="Application.readObjs" />
+      <item itemvalue="Application.demetest" />
+      <item itemvalue="JUnit.TestObjAlignmentV2" />
+      <item itemvalue="JUnit.TestObjAlignmentV2.testObjAlignment" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ObjToGltf" />
+        <item itemvalue="Application.demetest" />
+        <item itemvalue="Application.readObjs" />
+        <item itemvalue="JUnit.TestObjAlignmentV2.testObjAlignment" />
+        <item itemvalue="JUnit.TestObjAlignmentV2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f419d9-1d32-43ab-89de-8af3d53a113b" name="Default" comment="" />
+      <created>1547429840600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547429840600</updated>
+      <workItem from="1547429843834" duration="13837000" />
+      <workItem from="1547512761874" duration="20184000" />
+      <workItem from="1547596830529" duration="4429000" />
+      <workItem from="1547601808824" duration="15266000" />
+      <workItem from="1547709395107" duration="1905000" />
+      <workItem from="1547719344135" duration="420000" />
+      <workItem from="1547769577293" duration="1837000" />
+      <workItem from="1548032717410" duration="12298000" />
+      <workItem from="1548115177121" duration="9144000" />
+      <workItem from="1548125728767" duration="1598000" />
+      <workItem from="1548127339534" duration="16873000" />
+      <workItem from="1548201584213" duration="26963000" />
+      <workItem from="1548235812611" duration="2596000" />
+      <workItem from="1548288051663" duration="9762000" />
+      <workItem from="1548310402476" duration="391000" />
+      <workItem from="1548310806344" duration="25000" />
+      <workItem from="1548310902673" duration="13367000" />
+      <workItem from="1548374092376" duration="24281000" />
+      <workItem from="1548633560829" duration="22307000" />
+      <workItem from="1548719939392" duration="410000" />
+      <workItem from="1548720362028" duration="17990000" />
+      <workItem from="1548805991363" duration="5179000" />
+      <workItem from="1548895002817" duration="627000" />
+      <workItem from="1548895638851" duration="2728000" />
+      <workItem from="1548916224062" duration="25000" />
+      <workItem from="1548916481629" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestObjAlignmentV2 - 2019.01.17 at 18h 07m 07s.xml">
+      <configuration name="TestObjAlignmentV2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestObjAlignmentV2_testObjAlignment - 2019.01.17 at 18h 08m 29s.xml">
+      <configuration name="TestObjAlignmentV2.testObjAlignment" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="224486000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26972282" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1328976" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jgltf-obj/src/test/java/de/javagl/jgltf/obj/v2/TestObjAlignmentV2.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Testdemo/src/readObjs.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v1/ObjGltfAssetCreatorV1.java</url>
+          <line>413</line>
+          <properties />
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="533" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.m2/repository/de/javagl/obj/0.3.0/obj-0.3.0.jar!/de/javagl/obj/ObjFaces.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/IreadObj/IObjReads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/de/javagl/obj/0.3.0/obj-0.3.0.jar!/de/javagl/obj/DefaultObjFace.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/de/javagl/obj/0.3.0/obj-0.3.0.jar!/de/javagl/obj/ObjFace.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/de/javagl/obj/0.3.0/obj-0.3.0.jar!/de/javagl/obj/ObjUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="1285" column="30" selection-start-line="1285" selection-start-column="30" selection-end-line="1285" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v1/ObjGltfAssetCreatorV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="571" column="64" selection-start-line="571" selection-start-column="31" selection-end-line="571" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/NamedModelElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/AccessorModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/impl/creation/BufferStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="184" column="26" lean-forward="true" selection-start-line="184" selection-start-column="26" selection-end-line="184" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/impl/creation/AccessorModels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/Accessors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="101" column="50" lean-forward="true" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/IntBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="629" column="30" selection-start-line="629" selection-start-column="30" selection-end-line="629" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/de/javagl/obj/0.3.0/obj-0.3.0.jar!/de/javagl/obj/ObjData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="166" column="29" lean-forward="true" selection-start-line="166" selection-start-column="29" selection-end-line="166" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ByteArrayOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/AccessorDatas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="463" selection-start-line="463" selection-end-line="463" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/barrel/Imput/barrel.mtl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/DirectByteBufferR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/ByteOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="4" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/DirectByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="715" selection-start-line="715" selection-end-line="715" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/impl/creation/BufferStructureGltfV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/io/Buffers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="141" column="7" selection-start-line="141" selection-start-column="7" selection-end-line="142" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/impl/DefaultAccessorModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="593" column="25" selection-start-line="593" selection-start-column="25" selection-end-line="593" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testdemo/src/demetest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/impl/creation/BufferStructureBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="273" column="47" selection-start-line="273" selection-start-column="34" selection-end-line="273" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/repository/org/sonatype/oss/oss-parent/9/oss-parent-9.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-impl-v1/src/main/java/de/javagl/jgltf/impl/v1/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/io/v1/DefaultAssetCreatorV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-impl-v2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-impl-v1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/v2/GltfModelV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/GltfConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4025">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-obj/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-impl-v2/src/main/java/de/javagl/jgltf/impl/v2/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v2/MtlMaterialHandlerV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/BufferStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/v2/ObjGltfAssetCreatorV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="636" column="21" lean-forward="true" selection-start-line="636" selection-start-column="21" selection-end-line="636" selection-end-column="21" />
+          <folding>
+            <element signature="docComment;field#logger#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;field#level#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;field#gltf#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;field#bufferStrategy#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;field#bufferStructureBuilder#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;field#mtlMaterialHandler#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;field#indicesComponentType#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;field#objSplitter#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;field#assigningRandomColorsToParts#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#ObjGltfAssetCreatorV2#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="e#4831#4832#0" expanded="true" />
+            <element signature="e#4883#4884#0" expanded="true" />
+            <element signature="docComment;method#ObjGltfAssetCreatorV2#1;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#setBufferStrategy#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#setIndicesComponentType#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#setIndicesComponentType#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#setAssigningRandomColorsToParts#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#setAssigningRandomColorsToParts#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#create#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#readObj#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#readObj#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#readMtls#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#readMtls#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#convert#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#createAsset#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#createAsset#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#createMeshPrimitives#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#createMeshPrimitives#1;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#createMeshPrimitives#1;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#assignMaterial#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#assignMaterial#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#assignDefaultMaterial#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#assignDefaultMaterial#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#assignRandomColorMaterials#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#assignRandomColorMaterials#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#createPartMeshPrimitives#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#createMeshPrimitive#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#createIndicesByteBuffer#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#createIndicesByteBuffer#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="docComment;method#stripFileNameExtension#0;class#ObjGltfAssetCreatorV2#0" />
+            <element signature="method#stripFileNameExtension#0;class#ObjGltfAssetCreatorV2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-impl-v2/src/main/java/de/javagl/jgltf/impl/v2/GlTFProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-impl-v2/src/main/java/de/javagl/jgltf/impl/v2/GlTF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/channels/WritableByteChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="102" column="15" selection-start-line="102" selection-start-column="15" selection-end-line="102" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/io/GltfAssetWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/io/v2/GltfModelWriterV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/io/v2/GltfAssetWriterV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3825">
+          <caret line="198" column="82" selection-start-line="198" selection-start-column="82" selection-end-line="198" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-model/src/main/java/de/javagl/jgltf/model/io/GltfModelWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3500">
+          <caret line="174" column="73" selection-start-line="174" selection-start-column="73" selection-end-line="174" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/barrel/Output/barrel.gltf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5150">
+          <caret line="206" column="5" lean-forward="true" selection-start-line="206" selection-start-column="5" selection-end-line="206" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+          <folding>
+            <element signature="n#scm#0;n#project#0;n#!!top" />
+            <element signature="n#developers#0;n#project#0;n#!!top" />
+            <element signature="e#1763#5789#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgltf-obj/src/main/java/de/javagl/jgltf/obj/ObjToGltf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45135134" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45135134" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45135134" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45135134" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jgltf-parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45135134" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.jogamp.gluegen:gluegen-rt:natives-windows-amd64:2.3.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45135134" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
